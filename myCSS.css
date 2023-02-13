@@ -4,7 +4,7 @@ body {
 	margin: 0 auto;
 }
 .homePage {
-	background: #131344;
+	background: #3589DB;
 }
 .container {
 	width: 960px;
@@ -21,7 +21,7 @@ body {
 	
 }
 .nav {
-	background: #136999;
+	background: #FAE892;
 	margin: 0px;
 	padding: 5;
 	float: left;
