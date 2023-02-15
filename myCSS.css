@@ -39,6 +39,7 @@ body {
 	parentOfUl{ text-align:center;}
 	ul{ display:inline-block; }
 	text-align: center;
+	font: Luminari, fantasy;
 }
 .footer {
 	background: #183A5C;
