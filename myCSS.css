@@ -36,6 +36,8 @@ body {
 	margin: 0px;
 	float: left;
 	width: 100%;
+	parentOfUl{ text-align:center;}
+	ul{ display:inline-block; }
 	text-align: center;
 }
 .footer {
