@@ -1,7 +1,7 @@
 @charset "UTF-8";
 /* This is a comment! Text here will be ignored by the browser. */
 body {
-	font: 100%/1.4 Trattatello, fantasy;
+	font: 100%/1.4 "Trattatello,fantasy";
      background-color: #FFFFFF;
 	margin: 0 auto;
 }
@@ -37,7 +37,7 @@ body {
 	float: left;
 	width: 100%;
 	text-align: left;
-	font: Luminari, fantasy;
+	font: "Luminari, fantasy";
 }
 .footer {
 	background: #183A5C;
