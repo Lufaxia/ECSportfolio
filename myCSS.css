@@ -57,3 +57,6 @@ a:visited {
 a:hover, a:active, a:focus { 
      text-decoration: underline;
 }
+img {
+  float: auto;
+}
